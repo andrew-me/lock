@@ -97,7 +97,7 @@
     "prop-types": "^15.6.0",
     "react": "^15.6.2",
     "react-dom": "^15.6.2",
-    "react-transition-group": "^2.2.1",
+    "react-transition-group": "^2.9.0",
     "trim": "0.0.1",
     "url-join": "^1.1.0"
   },
