@@ -94,9 +94,9 @@
     "immutable": "^3.7.3",
     "jsonp": "^0.2.0",
     "password-sheriff": "^1.1.0",
-    "prop-types": "^15.6.0",
-    "react": "^15.6.2",
-    "react-dom": "^15.6.2",
+    "prop-types": "^15.6.2",
+    "react": "^16.5.0",
+    "react-dom": "^16.5.0",
     "react-transition-group": "^2.2.1",
     "trim": "0.0.1",
     "url-join": "^1.1.0"
